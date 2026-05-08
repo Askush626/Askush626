@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Askush626
+- 👋 Hi, I’m @Askush626 new user
 - 👀 I’m interested in game simulator
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on ...
